@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: wrok.ae
+title: smartmonkey.info
 email: svs@svs.io
 description: >- # this means to ignore newlines until "baseurl:"
-  The UAEs boutique tech consulting firm.
+  A boutique tech consulting firm based in Mumbai, India
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: _svs_
 author:
-  name: Wrok FZE
-  email: contact@wrok.ae
+  name: Smartmonkey
+  email: smartmonkey@svs.io
 
 # Build settings
 theme: minima

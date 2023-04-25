@@ -4,9 +4,12 @@
 
 layout: home
 ---
-## wrok.ae is the UAE's boutique technology and product engineering consulting firm.
+## SmartMonkey Software Pvt. Ltd.
+### A boutique technology consulting firm.
 
 We specialise in advising startups and enterprises in the areas of
+- software development
+- project management
 - leadership coaching
 - organisation and process design
 - maximising velocity and reliability and
