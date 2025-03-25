@@ -4,8 +4,6 @@ title: Cancellation Policy
 permalink: /cancellation/
 ---
 
-# Cancellation Policy
-
 ## No Refunds
 
 **SmartMonkey Software Pvt. Ltd. does not offer refunds for any services or products purchased.**
