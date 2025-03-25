@@ -21,13 +21,18 @@
 title: smartmonkey.info
 email: svs@svs.io
 description: >- # this means to ignore newlines until "baseurl:"
-  A boutique tech consulting firm based in Mumbai, India
+  A boutique technology consulting firm based in Mumbai, India
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://smartmonkey.info" # the base hostname & protocol for your site
 twitter_username: _svs_
 author:
-  name: Smartmonkey
+  name: SmartMonkey Software
   email: smartmonkey@svs.io
+# Custom settings
+header_pages:
+  - about.markdown
+  - privacy.markdown
+  - terms-and-conditions.markdown
 
 # Build settings
 theme: minima
