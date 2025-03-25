@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+
+/* Additional custom styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.site-title {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2.8em;
+    margin-top: 10px;
+    color: #333;
+}
+
+.wrapper {
+    max-width: calc(1200px - (30px * 2));
+}
+
+.post-content h2, .post-content h3 {
+    margin-top: 25px;
+}
+
+.site-header {
+    border-top: 5px solid #333;
+}
